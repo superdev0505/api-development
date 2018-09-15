@@ -24,11 +24,3 @@ _(Pendiente)_
 
 + **storage**: `chmod -R 777 storage/*`
 + **bootstrap**: `chmod -R 777 bootstrap/*`
-
- 
----
-###Sistemas Dimerc Labs...
- 
-![alt text][logo_dimerclabs]
-
-[logo_dimerclabs]: http://www.dimerclabs.com/img/logo_white.png "Dimerc Labs"
