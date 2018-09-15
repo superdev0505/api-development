@@ -7,7 +7,7 @@ _(Pendiente)_
 
 + **Lenguaje**: PHP (PHP >= 5.6.4) 
 + **Framework**: [Laravel 5.4](https://laravel.com/docs/5.4)
-+ **Desarrollador principal**: [Felipe Burgos](mailto:fburgos@dimerclabs.com) 😉
++ **Desarrollador principal**:
 
 ### Cambios al momento de implementar a poducción
 #### 1.- Cambiar Valores en archivos
